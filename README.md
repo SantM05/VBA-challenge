@@ -12,5 +12,6 @@ VBA_challenge
 ######    Ticker_MaxIncrease
 ######    Ticker_MinIncrease
 ######    Ticker_TotalStockVolume
-###### 2. Addition of the code 1) "Ticker_MaxIncrease = Ticker", 2)"Ticker_MinIncrease = Ticker" 3) "Ticker_TotalStockVolumeIncrease = Ticker" in lines 44, 48 and 52 
+###### 2. Addition of the code 1) "Ticker_MaxIncrease = Ticker", 2)"Ticker_MinIncrease = Ticker" 3) "Ticker_TotalStockVolumeIncrease = Ticker" in lines 44, 48 and 52
+###### 3. Change made to have the code in line from 55 to line 60 outiside the For i loop
 ###### Again all changes were done with suggestions fromo Xpert Learning Assistant
